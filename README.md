@@ -11,12 +11,29 @@ Hold is the complete file, with the parts assembled and disassembled. Hold-assem
 
 You may notice that in the complete/assembled files there is an ominous flat rectangle. I'm not entirely sure where it comes from but it's removed in the separate files.
 
-## How to make: own a 3d printer. If you try to print this from a service it *will* bankrupt you 😭
+## Disclaimer: own a 3d printer. If you try to print this from a service it *will* bankrupt you 😭
 
 I'm taking advantage of Hack Club Printing Legion, but if you don't own a printer and you don't know someone who does you're out of luck :(
 
 ## BOM 
 
+|Part                                                            |QTY  |Unit |Total|Vendor         |
+|----------------------------------------------------------------|-----|-----|-----|---------------|
+|Filament                                                        |2    |11.47|22.94|Printing Legion|
+|Hex Lock Zink Plated Nuts, M4                                   |3    |0.2  |0.6  |Canada Bolts   |
+|Machine Screws, Phillips Flat Head, Zinc Plated Steel, M4 x 50mm|3    |0.45 |1.35 |Canada Bolts   |
+|C Clamp                                                         |1    |8.39 |8.39 |Amazon         |
+|Sandpaper                                                       |1    |5.23 |5.23 |Amazon         |
+|Subtotal                                                        |     |     |38.51|               |
+|Shipping + Taxes                                                |     |     |26.4 |               |
+|Total                                                           |     |     |64.91|               |
+|Shipping breakdown                                              |0.69 |     |     |               |
+|                                                                |1.83 |     |     |               |
+|                                                                |2.56 |     |     |               |
+|                                                                |11.33|     |     |               |
+|                                                                |11.82|     |     |               |
+
+The design is specially built for ISO7046 M4 screws and DIN 985 nuts, so make sure to use those. If you need to use another screw, you're going to have to edit the model/do some carpentry. See more at [the customization section](https://github.com/NestOfGhosts/DeskBuddy/tree/main#Customization)
 
 ## Assembly
 
@@ -54,6 +71,10 @@ More placeholders
 
 - Screw in the phone holder
 <img width="661" height="616" alt="image" src="https://github.com/user-attachments/assets/bee1c745-d19f-46f4-86a6-d0a2a0e9564c" />
+
+## Customization
+
+There are .FCStd files, so you can use [the full editable files](https://github.com/NestOfGhosts/DeskBuddy/blob/main/hold.FCStd) and edit them with FreeCad or another software that accepts that file type. Unfortunately, I absolutely suck at cad, the spreadsheet is a lie. While values throughout the file are based off values in the spreadsheet, pretty much everything will break if you attempt to change most of the values, so the editable files are like base objects you can carve/add to, but you cant really change the actual models without a bit of shenanigans. One value that did manage to change in the earlier iterations of the project was Spreadsheet.pin, but all that changes is the diameter of the pins and their corresponding holes. It is similarly difficult to accomodate for different types of screws, as I did not have the foresight to add the screw measurements to the spreadsheet. Luckily, there are only 3 screws and nuts, so it would be an easier modification.
 
 
 
