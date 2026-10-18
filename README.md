@@ -7,10 +7,9 @@ All photos are placeholders
 
 ## Files
 
-Hold is the complete file, with the parts assembled and disassembled. Hold-assembly is just the assembled model. The other files are the individual parts
+Hold is the complete file, with the parts assembled and disassembled. Hold-assembly is just the assembled model. The individual files are in separate.
 
-You may notice that in the complete files there is an ominous flat rectangle. I'm not entirely sure where it comes from but it's removed in the separate files. You may also notice that there is no complete file .stl, that's because the stl was too big of a file size for github web.
-
+You may notice that in the complete/assembled files there is an ominous flat rectangle. I'm not entirely sure where it comes from but it's removed in the separate files.
 
 ## How to make: own a 3d printer. If you try to print this from a service it *will* bankrupt you 😭
 
