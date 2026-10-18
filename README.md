@@ -1,11 +1,20 @@
 # DeskBuddy
-A holder that you put on your desk that can hold pencils, scissors, pencil lead, a usb hub, random trinkets and also has a phone arm
+A holder that you put on your desk that can hold pencils, scissors, pencil lead, a usb hub, random trinkets and also has a phone arm. Made by me for Hack Club Half Life
 
 All photos are placeholders
 
 <img width="652" height="563" alt="image" src="https://github.com/user-attachments/assets/2b8e9c1c-97f9-4901-9da7-bb5b7deb62c0" />
 
+## Files
+
+Hold is the complete file, with the parts assembled and disassembled. Hold-assembly is just the assembled model. The other files are the individual parts
+
+You may notice that in the complete files there is an ominous flat rectangle. I'm not entirely sure where it comes from but it's removed in the separate files. You may also notice that there is no complete file .stl, that's because the stl was too big of a file size for github web.
+
+
 ## How to make: own a 3d printer. If you try to print this from a service it *will* bankrupt you 😭
+
+I'm taking advantage of Hack Club Printing Legion, but if you don't own a printer and you don't know someone who does you're out of luck :(
 
 ## BOM 
 
