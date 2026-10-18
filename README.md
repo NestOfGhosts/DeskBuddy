@@ -22,21 +22,30 @@ I'm taking advantage of Hack Club Printing Legion, but if you don't own a printe
 ## Assembly
 
 - Put the pins in the bottom body
-<img width="873" height="721" alt="image" src="https://github.com/user-attachments/assets/a8b31a8e-5080-4219-9186-dcb0fc0fc3d4" />
+<img width="571" height="490" alt="image" src="https://github.com/user-attachments/assets/99c36dc3-7532-4ffc-ba5a-16645d5be726" />
 
 - Put the Top body on the bottom body
   - You can place your usb hub inside now
   - You can slide bookmarks/other small thin things in between the two halves  
-<img width="774" height="621" alt="image" src="https://github.com/user-attachments/assets/7a169235-187f-4df6-b2f4-d2f7326b5098" />
+<img width="598" height="535" alt="image" src="https://github.com/user-attachments/assets/65055839-8427-4a9a-9cf6-3d2b760e3567" />
 
 - Two more pins into the side
-<img width="1085" height="726" alt="image" src="https://github.com/user-attachments/assets/e40feab3-9283-4568-a8ee-6c64c8ccd2d3" />
+<img width="658" height="657" alt="image" src="https://github.com/user-attachments/assets/160091e7-fc50-4b29-892f-88a616f2ff61" />
 
 - Add glue to the side of the trinket tray and the side of the main body   
 Insert Image
 
 - Insert the trinket tray
-<img width="954" height="616" alt="image" src="https://github.com/user-attachments/assets/7b3e4c3b-e9de-4c1f-a2e2-fb356252c505" />
+<img width="783" height="670" alt="image" src="https://github.com/user-attachments/assets/97009f1b-3079-4939-ac63-bd1ade31bf1b" />
+
+- 2 more pins... (other side)
+<img width="724" height="548" alt="image" src="https://github.com/user-attachments/assets/f44baf36-e970-4c1c-be51-6b1fd3d6f7ad" />
+
+- more glue
+More placeholders
+
+- Insert the other part or whatever
+<img width="977" height="697" alt="image" src="https://github.com/user-attachments/assets/241cef64-84c7-4e23-9664-a965960e9624" />
 
 - Screw in the arm 1, with the nut in the hex cage
 <img width="967" height="724" alt="image" src="https://github.com/user-attachments/assets/3d9ad994-84d7-452f-9ace-da7b4aecd077" />
