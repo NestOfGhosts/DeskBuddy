@@ -19,7 +19,7 @@ I'm taking advantage of Hack Club Printing Legion, but if you don't own a printe
 
 |Part                                                            |QTY  |Unit |Total|Vendor         |
 |----------------------------------------------------------------|-----|-----|-----|---------------|
-|Filament                                                        |2    |11.47|22.94|Printing Legion|
+|Filament                                                        |2    |11.47|22.94|Amazon         |
 |Hex Lock Zink Plated Nuts, M4                                   |3    |0.2  |0.6  |Canada Bolts   |
 |Machine Screws, Phillips Flat Head, Zinc Plated Steel, M4 x 50mm|3    |0.45 |1.35 |Canada Bolts   |
 |C Clamp                                                         |1    |8.39 |8.39 |Amazon         |
